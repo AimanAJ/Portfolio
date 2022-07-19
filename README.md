@@ -1,3 +1,3 @@
 # Portfolio
 
-link :  https://aimanaj.github.io/Portfolio/
+link :  https://aimanaj.github.io/Portfolio/-index.html
